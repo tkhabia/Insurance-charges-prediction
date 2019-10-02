@@ -1,5 +1,5 @@
 # Insurance-Claim-Prediction
-In this Data set we are Predicting the Insurance Claim by each user, Machine Learning algorithms for Regression analysis are used and Data Visualization are also performed to support Analysis.
+In this Data set we are Predicting the Insurance Claim charges by each user, Machine Learning algorithms for Regression analysis are used.
 
 # Content
 This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cost Personal Datasets][1]" to update sample value on top.
@@ -20,5 +20,3 @@ This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cos
     the residential area of policyholder in the US (northeast=0, northwest=1, southeast=2, southwest=3) 
 # charges: 
     individual medical costs billed by health insurance
-# insuranceclaim: 
-    yes=1, no=0
